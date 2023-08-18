@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692395402 source:c:\users\joelyk\documents\tp c plus plus\distancededition\main.c
+	<stdio.h>
+	<string.h>
+
