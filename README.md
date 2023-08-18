@@ -1,4 +1,4 @@
-Calcul de la Distance d'Édition (Distance de Levenshtein) en C
+#Calcul de la Distance d'Édition (Distance de Levenshtein) en C
 
 Ce dépôt contient un programme en langage C pour calculer la distance d'édition entre deux mots, également connue sous le nom de distance de Levenshtein. La distance d'édition mesure le nombre minimal d'opérations (insertions ou suppressions de caractères) nécessaires pour transformer un mot en un autre. Cela trouve des applications dans des domaines tels que la correction d'orthographe, la bio-informatique et le traitement automatique du langage naturel.
 Comment ça fonctionne
@@ -19,7 +19,6 @@ Exemple de sortie
 
 Après avoir exécuté le programme avec les chaînes "mines" et "mimes", vous devriez obtenir une sortie similaire à celle-ci :
 
-vbnet
 
 Distance d'édition entre mines et mimes : 2
 
